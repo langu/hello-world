@@ -10,6 +10,5 @@ Do you want to help us scale our systems to our next billions of users and beyon
 
 Join us and make your mark on the world. 
 
-Learn about careers at Facebook: https://www.facebook.com/careers/
-
+Learn about careers at Facebook: https://www.facebook.com/careers/ 
 Read more about what we've been up to: http://newsroom.fb.com/
