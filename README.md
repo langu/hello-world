@@ -11,6 +11,3 @@ Do you want to help us scale our systems to our next billions of users and beyon
 Join us and make your mark on the world. 
 
 Read more about what we've been up to here: http://newsroom.fb.com/
-
-Adding some things
-Adding more things
